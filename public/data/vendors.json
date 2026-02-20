@@ -1,0 +1,364 @@
+[
+  {
+    "company_name": "동양금속공업사",
+    "location": "김해시 김해대로 2596번길 11-28(안동 539-6)",
+    "images": [
+      "https://idezqodtcngzdkgdgelx.supabase.co/storage/v1/object/public/vendors/vendor_1_01.webp",
+      "https://idezqodtcngzdkgdgelx.supabase.co/storage/v1/object/public/vendors/vendor_1_02.webp",
+      "https://idezqodtcngzdkgdgelx.supabase.co/storage/v1/object/public/vendors/vendor_1_03.webp",
+      "https://idezqodtcngzdkgdgelx.supabase.co/storage/v1/object/public/vendors/vendor_1_04.webp"
+    ],
+    "owner_manager": "최수영",
+    "contact": [
+      "055-324-1601",
+      "010-3880-6533"
+    ],
+    "handled_materials": "아연금속괴(인고트), 폐기물",
+    "storage_amount_monthly": "생산품 10톤",
+    "building_structure": "경량철골조 판넬지붕 3층 1동, 1층 1동",
+    "safety_manager": "최수영",
+    "employee_count": "5명",
+    "extinguishing_agents": [
+      {
+        "item": "건조사",
+        "quantity": ""
+      }
+    ],
+    "dormitory": {
+      "status": "있음(1실)",
+      "personnel": "1명"
+    },
+    "nearby_fire_water_facility": "1-A-40",
+    "fire_extinguisher_quantity": "5개",
+    "fire_truck_access": "진입 가능",
+    "firefighting_issues": [
+      "아연금속괴(재생) 재료를 일정한 틀로 재생산하여 제조하는 공장으로 화재 위험성은 적음(분말형태로 보관 X)",
+      "현재는 유가상승에 따른 경영악화로 공장 미가동(기존 생산품만 보관 중)",
+      "부생연료유(하이신) 1,800L 탱크를 설치하여 용해로 연료로 사용하므로 폐기물 보관장소 및 탱크 인근 연소 확대 시 주의요함",
+      "특히 집진기 화재 시 주수 등 주의 요함"
+    ],
+    "lat": 35.228585,
+    "lng": 128.905649
+  },
+  {
+    "company_name": "유성기업",
+    "location": "김해시 상동면 상동로 148-10",
+    "owner_manager": "김동관",
+    "contact": [
+      "010-6677-1210"
+    ],
+    "handled_materials": "알루미늄",
+    "storage_amount_monthly": "3~4톤",
+    "building_structure": "샌드위치판넬 구조",
+    "safety_manager": "김동관",
+    "employee_count": "4명",
+    "extinguishing_agents": [
+      {
+        "item": "건조사",
+        "quantity": "2톤"
+      }
+    ],
+    "dormitory": {
+      "status": "없음",
+      "personnel": "0명"
+    },
+    "nearby_fire_water_facility": "8-A-35",
+    "fire_extinguisher_quantity": "4개(3.3kg 분말)",
+    "fire_truck_access": "가능(협소)",
+    "firefighting_issues": [
+      "평소 공장 상주인원이 없고 주문이 들어오는대로 알루미늄 주물 제작 (화재 발생 시 발견이 늦어 초기대응 지체 우려)",
+      "일일 약 500kg의 금속괴를 제조(알루미늄 칩 약 3~4톤 보유)하나 최근 경영악화로 주문이 거의 없는 상황",
+      "공장 진입로가 협소하고 경사가 심하여 펌프차량 진입 시 주의요함",
+      "특히 집진기 화재 시 주수 등 주의 요함"
+    ],
+    "lat": 35.313425,
+    "lng": 128.905629
+  },
+  {
+    "company_name": "대광화공",
+    "location": "김해시 상동면 동북로437번길 83-43",
+    "owner_manager": "서성환",
+    "contact": [
+      "010-3884-0221"
+    ],
+    "handled_materials": "알루미늄, 마그네슘",
+    "storage_amount_monthly": "알루미늄 200~300kg, 마그네슘 410kg",
+    "building_structure": "철근콘크리트구조",
+    "safety_manager": "서성환",
+    "employee_count": "20명",
+    "extinguishing_agents": [
+      {
+        "item": "건조사",
+        "quantity": "4톤"
+      }
+    ],
+    "dormitory": {
+      "status": "부5동 지하 1층",
+      "personnel": "1명(서성환)"
+    },
+    "nearby_fire_water_facility": "8-A-10",
+    "fire_extinguisher_quantity": "40개(3.3kg 분말), 7개(20kg 분말)",
+    "fire_truck_access": "가능(협소)",
+    "hazardous_materials_inventory": {
+      "1_class": "염소산류(염소산칼륨 약 1000kg), 과염소산류(극소량), 질산염류(극소량)",
+      "2_class": "유황(150~300kg), 알루미늄(200~300kg), 마그네슘(410kg)",
+      "4_class": "알코올류, 제2석유류(비수용성)(세척용으로 5L 이하 사용)",
+      "5_class": "질산에스테르류(소량 재고 소진 시 향후 사용계획 없음)",
+      "explosives": "실탄 최대 10만발(화약은 약 200kg/1발당 2g)까지 보관가능"
+    },
+    "firefighting_issues": [
+      "최루탄을 만드는 공장으로 1, 2, 4, 5류 위험물 및 꽃불류 화약이 있어 화재진압 시 주의요함",
+      "알루미늄 및 마그네슘은 최루탄 원재료로 소량 보유하며 자체 저장고에 위험물 및 화약류 보관 중",
+      "공장 진입로가 협소하고 경사가 있어 펌프차량 진입 주의 요망",
+      "공장 전면은 인근 공장, 후면은 산과 인접해 있어 연소 확대 우려가 큼"
+    ],
+    "lat": 35.319047,
+    "lng": 128.937255
+  },
+  {
+    "company_name": "HKM",
+    "location": "김해시 상동면 묵방로120번길 20",
+    "owner_manager": "김종훈",
+    "contact": [
+      "010-9335-7282"
+    ],
+    "handled_materials": "알루미늄",
+    "storage_amount_monthly": "4톤",
+    "building_structure": "철골조",
+    "safety_manager": "김종현 (010-7154-7282)",
+    "employee_count": "14",
+    "extinguishing_agents": [
+      {
+        "item": "건조사",
+        "quantity": "2톤"
+      }
+    ],
+    "dormitory": {
+      "status": "없음",
+      "personnel": "0명"
+    },
+    "nearby_fire_water_facility": "8-A-25",
+    "fire_extinguisher_quantity": "10개(3.3kg 분말), 2개(CO2)",
+    "fire_truck_access": "진입 가능(협소)",
+    "firefighting_issues": [
+      "공장 진입로가 협소하고 경사가 있어 소방차량 진입 시 주의요함",
+      "공장 밀집지역으로 화재 시 인근 공장으로 연소확대 우려",
+      "위험물 지하탱크 저장소 2기(벙커C유-용해로 연료)",
+      "LPG저장소(50kg 5기, 20kg 1기)",
+      "특히 집진기 화재 시 주수 등 주의 요함"
+    ],
+    "lat": 35.312154,
+    "lng": 128.872213
+  },
+  {
+    "company_name": "㈜신화",
+    "location": "생림면 안양로 276-40",
+    "owner_manager": "김길태",
+    "contact": [
+      "055-335-3701",
+      "010-4870-7679"
+    ],
+    "handled_materials": "마그네슘",
+    "storage_amount_monthly": "3톤",
+    "building_structure": "철골조",
+    "safety_manager": "강태석 (010-5576-6596)",
+    "employee_count": "15",
+    "extinguishing_agents": [
+      {
+        "item": "건조사",
+        "quantity": "2톤"
+      }
+    ],
+    "dormitory": {
+      "status": "7명(외국인)",
+      "personnel": "7명"
+    },
+    "nearby_fire_water_facility": "10-A-16",
+    "fire_extinguisher_quantity": "10개(3.3kg 분말)",
+    "fire_truck_access": "진입 가능",
+    "firefighting_issues": [
+      "주로 마그네슘 폐기물 덩어리를 융해하여 괴로 생산",
+      "공장 2개동 6기 용해로(전기로) 중 1개동 3기 사용 중",
+      "진압 및 진입 시 용해로(바닥) 확인하여 안전 진압 요망",
+      "중앙고속도로 교각 아래 위치하여 화재 시 연기로 교통 장애 우려",
+      "특히 집진기 화재 시 주수 등 주의 요함"
+    ],
+    "lat": 35.340625,
+    "lng": 128.847585
+  },
+  {
+    "company_name": "대명산업",
+    "location": "생림면 장재로 377-26",
+    "owner_manager": "이상락",
+    "contact": [
+      "055-323-3481",
+      "010-6774-1152"
+    ],
+    "handled_materials": "알루미늄",
+    "storage_amount_monthly": "30톤",
+    "building_structure": "철골조",
+    "safety_manager": "양원석 (010-8554-5809)",
+    "employee_count": "13",
+    "extinguishing_agents": [
+      {
+        "item": "건조사",
+        "quantity": "3톤"
+      }
+    ],
+    "dormitory": {
+      "status": "없음",
+      "personnel": "0명"
+    },
+    "nearby_fire_water_facility": "10-A-25",
+    "fire_extinguisher_quantity": "10개(3.3kg 분말), 2개(20kg 분말), 1개(D급 분말 20kg)",
+    "fire_truck_access": "진입 가능",
+    "firefighting_issues": [
+      "산림인접 지역으로 화재 시 산불 발생 우려",
+      "주로 알루미늄 폐기물 덩어리를 융해하여 괴(인고트)로 생산",
+      "위험물 지하탱크 저장소 (공장동 벙커C유 가열로 2기)",
+      "진압 및 진입 시 용해로(바닥) 확인하여 안전 진압 요망",
+      "특히 집진기 화재 시 주수 등 주의 요함"
+    ],
+    "lat": 35.309485,
+    "lng": 128.842152
+  },
+  {
+    "company_name": "두인",
+    "location": "생림면 나전로 87-12",
+    "owner_manager": "김영환",
+    "contact": [
+      "055-323-8072"
+    ],
+    "handled_materials": "알루미늄",
+    "storage_amount_monthly": "1톤",
+    "building_structure": "철골조",
+    "safety_manager": "문상준 (010-3850-7540)",
+    "employee_count": "10",
+    "extinguishing_agents": [
+      {
+        "item": "건조사",
+        "quantity": "3톤"
+      }
+    ],
+    "dormitory": {
+      "status": "없음",
+      "personnel": "0명"
+    },
+    "nearby_fire_water_facility": "10-A-2",
+    "fire_extinguisher_quantity": "10개(3.3kg 분말)",
+    "fire_truck_access": "진입 가능(공장부지내 협소)",
+    "firefighting_issues": [
+      "작업공정 중 용해로 및 연주기 부분에는 화재 진압 시 물 사용금지",
+      "위험물 지하탱크 저장소 (공장동 벙커C유 가열로 2기)",
+      "공장동 내 폐기물(원료) 적재로 공간이 협소, 차량 부서 시 유의",
+      "작업 후 집진기로 걸러진 슬러지는 즉시 이동조치 중(1톤 마대백)",
+      "특히 집진기 화재 시 주수 등 주의 요함"
+    ],
+    "lat": 35.295244,
+    "lng": 128.861214
+  },
+  {
+    "company_name": "㈜해광메탈",
+    "location": "생림면 마사로 20-23(생철리 208-7)",
+    "owner_manager": "김동철",
+    "contact": [
+      "010-9303-1348",
+      "010-5529-6660"
+    ],
+    "handled_materials": "알루미늄",
+    "storage_amount_monthly": "15톤",
+    "building_structure": "철골철근콘크리트조 4동",
+    "safety_manager": "김동철 (010-9303-1348)",
+    "employee_count": "7",
+    "extinguishing_agents": [
+      {
+        "item": "건조사",
+        "quantity": "2톤"
+      }
+    ],
+    "dormitory": {
+      "status": "없음",
+      "personnel": "0명"
+    },
+    "nearby_fire_water_facility": "10-A-10",
+    "fire_extinguisher_quantity": "3.5kg 소화기 5개, 20kg 소화기 1개",
+    "fire_truck_access": "진입 가능",
+    "firefighting_issues": [
+      "주로 알루미늄 스크랩을 융해하여 괴로 생산",
+      "공장 진입로가 협소하고 경사가 있어 소방차량 진입 시 주의요함",
+      "㈜창일 목재공장, 한국화성 비닐시트 제작회사(4류 위험물, 8만리터) 인근 위치",
+      "특히 집진기 화재 시 주수 등 주의 요함"
+    ],
+    "lat": 35.362145,
+    "lng": 128.825642
+  },
+  {
+    "company_name": "호경",
+    "location": "생림면 나전로 87-13",
+    "owner_manager": "김춘수",
+    "contact": [
+      "055-329-6195",
+      "010-5194-9332"
+    ],
+    "handled_materials": "알루미늄",
+    "storage_amount_monthly": "10톤(스크랩)",
+    "building_structure": "R.C조",
+    "safety_manager": "김은표 (010-5194-9332)",
+    "employee_count": "14",
+    "extinguishing_agents": [
+      {
+        "item": "건조사",
+        "quantity": "5톤"
+      }
+    ],
+    "dormitory": {
+      "status": "없음",
+      "personnel": "0명"
+    },
+    "nearby_fire_water_facility": "10-A-2",
+    "fire_extinguisher_quantity": "20KG 1개, 3.3KG 6개",
+    "fire_truck_access": "진입 가능",
+    "firefighting_issues": [
+      "주로 알루미늄 스크랩을 융해하여 괴로 생산",
+      "제작과정에서 드로스(찌꺼기)가 만들어짐",
+      "용해로(2개) 및 연주기 부분에는 화재 진압 시 물 사용금지",
+      "특히 집진기 화재 시 주수 등 주의 요함"
+    ],
+    "lat": 35.295555,
+    "lng": 128.861515
+  },
+  {
+    "company_name": "㈜건영테크",
+    "location": "생림면 봉림로 115-7",
+    "owner_manager": "김진호",
+    "contact": [
+      "010-2866-3000"
+    ],
+    "handled_materials": "알루미늄(재활용품)",
+    "storage_amount_monthly": "210톤(완제품 및 원료) *생산량: 4톤",
+    "building_structure": "조립식 철골조 판넬지붕",
+    "safety_manager": "김영수 (010-3590-0886)",
+    "employee_count": "7",
+    "extinguishing_agents": [
+      {
+        "item": "건조사",
+        "quantity": "3톤"
+      }
+    ],
+    "dormitory": {
+      "status": "없음",
+      "personnel": "0명"
+    },
+    "nearby_fire_water_facility": "10-A-9",
+    "fire_extinguisher_quantity": "소형소화기 : 4대",
+    "fire_truck_access": "진입 가능",
+    "firefighting_issues": [
+      "알루미늄 재활용품을 알루미늄 주물로 제작함",
+      "제작과정에서 드로스(찌꺼기)가 만들어짐(30톤)",
+      "주위 공장이 둘러싸여 있어 연소확대 위험 있음",
+      "특히 집진기 화재 시 주수 등 주의 요함"
+    ],
+    "lat": 35.321856,
+    "lng": 128.846513
+  }
+]
