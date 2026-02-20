@@ -5,10 +5,12 @@ import MapPage from './pages/MapPage'
 import SopPage from './pages/SopPage'
 import ManualPage from './pages/ManualPage'
 import AnalysisPage from './pages/AnalysisPage'
+import ScrollToTop from './components/ScrollToTop'
 
 export default function App() {
     return (
         <BrowserRouter>
+            <ScrollToTop />
             <Routes>
                 {/* Landing — no bottom nav */}
                 <Route path="/" element={<LandingPage />} />
